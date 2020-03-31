@@ -13,16 +13,16 @@
 #### 과제 2
 - vectoex.glsl의 행렬들을 체워넣기
 
+====
 <div>
 <img width="200" src="https://user-images.githubusercontent.com/19402132/78083897-ca813780-73f1-11ea-9fac-ae2c1641b1cb.png">
+<img width="200" src="https://user-images.githubusercontent.com/19402132/78083903-cce39180-73f1-11ea-8855-b33476eb44ed.png">
 </div>
+====
 
 1. 월드행렬만 채워 넣은 상황입니다.
 2. 회전행렬과 사이즈 행렬을 마저 넣어줍시다.
 
-<div>
-<img width="200" src="https://user-images.githubusercontent.com/19402132/78083903-cce39180-73f1-11ea-8855-b33476eb44ed.png">
-</div>
 
 #### 과제 3
 - 카메라를 Y축으로 회전시키기
